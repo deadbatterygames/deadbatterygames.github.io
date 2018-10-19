@@ -1,0 +1,49 @@
+@font-face {
+    font-family: 'astera';
+    src: url('astera-webfont.woff2') format('woff2'),
+         url('astera-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body {
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #202020;
+    color: #aaaaaa;
+    font-family: verdana;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 75px;
+    color: #78ffff;
+    text-align: center;
+    font-family: astera;
+
+}
+
+h2 {
+    font-size: 40px;
+    color: #78ffff;
+    font-family: verdana;
+
+}
+
+h3 {
+    font-size: 30px;
+    color: #78ffff;
+    font-family: verdana;
+    margin-bottom: 5px;
+}
+
+a {
+    color: #ff78ff;
+    font-family: verdana;
+    text-decoration: none;
+}
+
+b {
+    color: #78ffff;
+}
