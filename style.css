@@ -17,11 +17,11 @@ body {
 }
 
 h1 {
-    font-size: 50pt;
+    font-size: 54pt;
     color: #78ffff;
     text-align: center;
     font-family: astera;
-
+    font-weight: normal;
 }
 
 h2 {
