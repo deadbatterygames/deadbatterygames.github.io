@@ -13,11 +13,11 @@ body {
     background-color: #202020;
     color: #aaaaaa;
     font-family: verdana;
-    font-size: 20px;
+    font-size: 14pt;
 }
 
 h1 {
-    font-size: 75px;
+    font-size: 50pt;
     color: #78ffff;
     text-align: center;
     font-family: astera;
@@ -25,14 +25,14 @@ h1 {
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 30pt;
     color: #78ffff;
     font-family: verdana;
 
 }
 
 h3 {
-    font-size: 30px;
+    font-size: 20pt;
     color: #78ffff;
     font-family: verdana;
     margin-bottom: 5px;
