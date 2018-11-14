@@ -4,7 +4,6 @@
          url('astera-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
 
 body {
@@ -28,7 +27,6 @@ h2 {
     font-size: 30pt;
     color: #78ffff;
     font-family: verdana;
-
 }
 
 h3 {
