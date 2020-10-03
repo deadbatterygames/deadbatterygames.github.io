@@ -61,9 +61,17 @@ table {
     margin-bottom: 50px;
 }
 
+th, td {
+    padding: 20px;
+    line-height: 15px;
+}
+
 th {
-    padding: 15px;
-    line-height: 20px;
+    color: #78ffff;
+}
+
+td {
+    text-align: center;
 }
 
 .left-column {
