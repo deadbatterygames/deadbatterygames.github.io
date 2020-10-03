@@ -45,3 +45,27 @@ a {
 b {
     color: #78ffff;
 }
+
+hr {
+    color: #78ffff;
+}
+
+img {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+table {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+th {
+    padding: 15px;
+    line-height: 20px;
+}
+
+.left-column {
+    text-align: right;
+}
